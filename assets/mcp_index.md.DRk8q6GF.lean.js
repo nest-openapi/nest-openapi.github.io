@@ -1,0 +1,1 @@
+import{_ as i,c as a,o as t,ag as n}from"./chunks/framework.S-Qvb3wi.js";const c=JSON.parse('{"title":"Overview","description":"","frontmatter":{},"headers":[],"relativePath":"mcp/index.md","filePath":"mcp/index.md"}'),e={name:"mcp/index.md"};function p(l,s,h,r,o,k){return t(),a("div",null,s[0]||(s[0]=[n("",14)]))}const E=i(e,[["render",p]]);export{c as __pageData,E as default};
